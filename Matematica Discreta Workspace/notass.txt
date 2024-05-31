@@ -1,0 +1,24 @@
+#
+
+""" biwhgiuwheu """ // paragrafo comentado
+
+var = input("indique jnwongweo") # gets the user input, stored as string by default
+
+
+casts: 
+
+var = int(var)
+var = str(var)
+.
+.
+.
+
+
+
+
+import math # importar livrarias
+
+dir(math) # dir(nome livraria) #mostrar na consola o que vai ser importado
+
+import math as m # dar um nickname para depois usar em vez de fazer math.cos posso fazer m.cos
+
